@@ -4,10 +4,10 @@ Welcome to the **AIED Progress Tracker**, which tracks the progress of works in 
 
 ## Task Categories
 
-- **[Student Prediction Tasks](student_prediction/)**
-  - Tasks related to predicting student performance, including dropout prediction, performance forecasting, and early intervention.
+- **[Student Prediction Tasks](tasks/performance-prediction.md)**
+  - Tasks related to predicting student performance, including dropout prediction, and score forecasting.
 
-- **[Explainable AI Tasks](explainable_ai/)**
+- **[Explainable AI Tasks](tasks/explainability.md)**
   - Tasks focused on explainability of AI models, such as feature importance.
 
 
