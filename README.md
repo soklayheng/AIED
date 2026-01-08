@@ -6,6 +6,9 @@
 ## Explainable AI Tasks
 - [Explainable AI Tasks](tasks/explainability.md)
 
+## AI Application
+- [LAD](AI_App/LAD.md)
+
 ## Dataset
 - [Dataset](datasets/dataset.md)
 
