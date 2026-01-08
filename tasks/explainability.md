@@ -10,7 +10,7 @@
 -->
 
 ---
-# Explainability and Interpetability
+# Explainability and Interpretability
   
 | Task | Dataset | Algo | Metrics | Approach | Best Algo | Ref | Code | 
 | -------------- | ---------------- | ------------ | -------------- | ------------------------- | ----------- | ---- | ---- |
