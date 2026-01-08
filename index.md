@@ -3,7 +3,7 @@
 Welcome to the **AIED Progress Tracker**, which tracks the progress of works in the field of **AI in Education**.
 
 ## Systematic Review
- - **[Systematic_Review](Systematic_Review/SR.md)**
+ - **[Systematic Review](Systematic_Review/SR.md)**
 
 ## Task Categories
 
