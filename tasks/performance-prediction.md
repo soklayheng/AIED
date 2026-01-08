@@ -1,6 +1,6 @@
 ---
 # Student Prediction Tasks
   
-| Task | Dataset | Algo | Metrics | Best Algo | Ref | Code | 
+| Task | Dataset | Algo | Metrics | Approach | Best Algo | Ref | Code | 
 | ---- | ------- | ---- | ------- | --------- | --- | ---- |
-| Dropout Prediction | OULAD | CNN, Bigru | F1 | CNN | [2012](https://github.com/soklayheng/AIED/blob/main/references/AdaptiveLearningthroughArtificialIntelligence.pdf) |  |
+| Multiclassificaiton: Pass, Fail, Withdraw, and binary | OULAD (demographics, virtual learning interactions, and assessment scores) | RF,SVM,KNN | Accuracy, F1 | early and late fusion, 5 cross-validatoin, SMOTE |  RF with early fusion and SMOTE | [2025](https://github.com/soklayheng/AIED/blob/main/references/AStudentPerformancePredictionModelUsingMachineLearningModelsinM.pdf)|  |
