@@ -1,6 +1,5 @@
 ---
 # Student Prediction Tasks
-
 <div class="table-wrap">
   
 | Task | Dataset | Algo | Metrics | Approach | Best Algo | Ref | Code | 
