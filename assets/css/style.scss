@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Wider content area (Slate uses .inner) */
+.inner {
+  max-width: 1600px;
+  width: 96%;
+}
+
+/* Table wrapper: allow horizontal scrolling */
+.table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Let table expand naturally (prevents tiny columns) */
+.table-wrap table {
+  width: max-content;
+  min-width: 100%;
+  table-layout: auto;
+}
+
+/* Keep columns readable */
+#main_content th, #main_content td {
+  padding: 10px 12px;
+  white-space: nowrap;   /* use scroll instead of squeezing */
+  vertical-align: top;
+}
